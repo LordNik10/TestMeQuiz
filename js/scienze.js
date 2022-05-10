@@ -193,7 +193,7 @@ let scienze = [
         esatta: "Se un corpo esercita una forza su un secondo corpo, allora il secondo esercita sul primo una forza uguale e contraria",
         opzione1: "Ogni corpo non soggetto a forze o soggetto a un sistema di forze che si equilibrano, rimane nel suo stato di quiete o di moto rettilineo uniforme rispetto a un sistema inerziale di riferimento",
         opzione2: "L’entropia di un sistema isolato lontano dall’equilibrio termico tende ad aumentare nel tempo, finché l’equilibrio non è raggiunto",
-        opzione3: "La forza è una grandezza vettoriale con la stessa direzione e lo stesso verso di accelerazione, e che essa è direttamente proporzionale all’accelerazione, con costante di proporzionalità data dalla massa del corpo"
+        opzione3: "La forza è una grandezza vettoriale con la stessa direzione e lo stesso verso di accelerazione, ed è direttamente proporzionale all’accelerazione, con costante di proporzionalità data dalla massa del corpo"
     },
 
     {
